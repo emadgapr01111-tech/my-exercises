@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "labelAr": "صدر",
+      "labelEn": "Chest",
+      "exercises": [
+        { "nameAr": "بنش برس", "nameEn": "Bench Press", "image": "images/chest/bench-press.jpg" },
+        { "nameAr": "تمرين الضغط", "nameEn": "Push-up" }
+      ]
+    },
+    {
+      "labelAr": "ظهر",
+      "labelEn": "Back",
+      "exercises": [
+        { "nameAr": "العقلة", "nameEn": "Pull-up", "image": "images/back/pullup.jpg" }
+      ]
+    }
+  ]
+}
