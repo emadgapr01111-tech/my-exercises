@@ -4,15 +4,32 @@
       "labelAr": "صدر",
       "labelEn": "Chest",
       "exercises": [
-        { "nameAr": "بنش برس", "nameEn": "Bench Press", "image": "images/chest/bench-press.jpg" },
-        { "nameAr": "تمرين الضغط", "nameEn": "Push-up" }
+        { "nameAr": "بنش برس - بار", "nameEn": "Barbell Bench Press", "image": "images/chest/barbell-bench-press.jpg" },
+        { "nameAr": "بنش برس - دمبل", "nameEn": "Dumbbell Bench Press", "image": "images/chest/dumbbell-bench-press.jpg" },
+        { "nameAr": "بنش برس مائل (علوي)", "nameEn": "Incline Bench Press", "image": "images/chest/incline-bench-press.jpg" },
+        { "nameAr": "بنش برس مائل سفلي", "nameEn": "Decline Bench Press", "image": "images/chest/decline-bench-press.jpg" },
+        { "nameAr": "تمرين الضغط", "nameEn": "Push-up", "image": "images/chest/push-up.jpg" },
+        { "nameAr": "طيران بالدمبل", "nameEn": "Dumbbell Fly", "image": "images/chest/dumbbell-fly.jpg" },
+        { "nameAr": "طيران بالكابل (كروس)", "nameEn": "Cable Crossover", "image": "images/chest/cable-crossover.jpg" },
+        { "nameAr": "بيك ديك (فراشة)", "nameEn": "Pec Deck Fly", "image": "images/chest/pec-deck-fly.jpg" },
+        { "nameAr": "ضغط بالكابل (من الأسفل)", "nameEn": "Low Cable Chest Press", "image": "images/chest/low-cable-chest-press.jpg" },
+        { "nameAr": "ضغط بالكابل (من الأعلى)", "nameEn": "High Cable Chest Press", "image": "images/chest/high-cable-chest-press.jpg" }
       ]
     },
     {
       "labelAr": "ظهر",
       "labelEn": "Back",
       "exercises": [
-        { "nameAr": "العقلة", "nameEn": "Pull-up", "image": "images/back/pullup.jpg" }
+        { "nameAr": "العقلة (سحب)", "nameEn": "Pull-up", "image": "images/back/pull-up.jpg" },
+        { "nameAr": "سحب أمامي", "nameEn": "Lat Pulldown", "image": "images/back/lat-pulldown.jpg" }
+      ]
+    },
+    {
+      "labelAr": "أرجل",
+      "labelEn": "Legs",
+      "exercises": [
+        { "nameAr": "سكوات بالبار", "nameEn": "Barbell Squat", "image": "images/legs/barbell-squat.jpg" },
+        { "nameAr": "ضغط الأرجل (بريش)", "nameEn": "Leg Press", "image": "images/legs/leg-press.jpg" }
       ]
     }
   ]
