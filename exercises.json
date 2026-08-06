@@ -1,35 +1,129 @@
 {
   "categories": [
     {
-      "labelAr": "صدر",
-      "labelEn": "Chest",
-      "exercises": [
-        { "nameAr": "بنش برس - بار", "nameEn": "Barbell Bench Press", "image": "images/chest/barbell-bench-press.jpg" },
-        { "nameAr": "بنش برس - دمبل", "nameEn": "Dumbbell Bench Press", "image": "images/chest/dumbbell-bench-press.jpg" },
-        { "nameAr": "بنش برس مائل (علوي)", "nameEn": "Incline Bench Press", "image": "images/chest/incline-bench-press.jpg" },
-        { "nameAr": "بنش برس مائل سفلي", "nameEn": "Decline Bench Press", "image": "images/chest/decline-bench-press.jpg" },
-        { "nameAr": "تمرين الضغط", "nameEn": "Push-up", "image": "images/chest/push-up.jpg" },
-        { "nameAr": "طيران بالدمبل", "nameEn": "Dumbbell Fly", "image": "images/chest/dumbbell-fly.jpg" },
-        { "nameAr": "طيران بالكابل (كروس)", "nameEn": "Cable Crossover", "image": "images/chest/cable-crossover.jpg" },
-        { "nameAr": "بيك ديك (فراشة)", "nameEn": "Pec Deck Fly", "image": "images/chest/pec-deck-fly.jpg" },
-        { "nameAr": "ضغط بالكابل (من الأسفل)", "nameEn": "Low Cable Chest Press", "image": "images/chest/low-cable-chest-press.jpg" },
-        { "nameAr": "ضغط بالكابل (من الأعلى)", "nameEn": "High Cable Chest Press", "image": "images/chest/high-cable-chest-press.jpg" }
+      "labelAr": "تمارين الصدر بالأوزان",
+      "labelEn": "Chest Exercises with Weights",
+      "subCategories": [
+        {
+          "nameAr": "تمارين البار",
+          "nameEn": "Barbell Exercises",
+          "exercises": [
+            {
+              "nameAr": "بنش برس مستوي - بار",
+              "nameEn": "Flat Barbell Bench Press",
+              "image": "images/chest/barbell-bench-press-flat.png"
+            },
+            {
+              "nameAr": "بنش برس مائل علوي - بار",
+              "nameEn": "Incline Barbell Bench Press",
+              "image": "images/chest/barbell-bench-press-incline.gif"
+            },
+            {
+              "nameAr": "بنش برس مائل سفلي - بار",
+              "nameEn": "Decline Barbell Bench Press",
+              "image": "images/chest/barbell-bench-press-decline.png"
+            }
+          ]
+        },
+        {
+          "nameAr": "تمارين الدمبل",
+          "nameEn": "Dumbbell Exercises",
+          "exercises": [
+            {
+              "nameAr": "بنش برس مستوي - دمبل",
+              "nameEn": "Flat Dumbbell Bench Press",
+              "image": "images/chest/dumbbell-bench-press-flat.jpg"
+            },
+            {
+              "nameAr": "بنش برس مائل علوي - دمبل",
+              "nameEn": "Incline Dumbbell Bench Press",
+              "image": "images/chest/dumbbell-bench-press-incline.jpg"
+            },
+            {
+              "nameAr": "بنش برس مائل سفلي - دمبل",
+              "nameEn": "Decline Dumbbell Bench Press",
+              "image": "images/chest/dumbbell-bench-press-decline.png"
+            },
+            {
+              "nameAr": "طيران مستوي - دمبل",
+              "nameEn": "Flat Dumbbell Fly",
+              "image": "images/chest/dumbbell-fly-flat.jpg"
+            },
+            {
+              "nameAr": "طيران مائل علوي - دمبل",
+              "nameEn": "Incline Dumbbell Fly",
+              "image": "images/chest/dumbbell-fly-incline.jpg"
+            },
+            {
+              "nameAr": "سحب دمبل للصدر (بولوفر)",
+              "nameEn": "Dumbbell Pullover",
+              "image": "images/chest/dumbbell-pullover.jpg"
+            }
+          ]
+        },
+        {
+          "nameAr": "تمارين الأجهزة والكوابل",
+          "nameEn": "Machine & Cable Exercises",
+          "exercises": [
+            {
+              "nameAr": "طيران بالكابل (من الأعلى)",
+              "nameEn": "High-to-Low Cable Crossover",
+              "image": "images/chest/cable-crossover-high.jpg"
+            },
+            {
+              "nameAr": "بيك ديك (فراشة بالجهاز)",
+              "nameEn": "Pec Deck Fly",
+              "image": "images/chest/pec-deck-fly.jpg"
+            },
+            {
+              "nameAr": "ضغط الصدر بالجهاز (جالس)",
+              "nameEn": "Seated Machine Chest Press",
+              "image": "images/chest/machine-chest-press.jpg"
+            },
+            {
+              "nameAr": "ضغط لاندماين للصدر",
+              "nameEn": "Landmine Chest Press",
+              "image": "images/chest/landmine-press.gif"
+            },
+            {
+              "nameAr": "المتوازي بوزن إضافي",
+              "nameEn": "Weighted Chest Dips",
+              "image": "images/chest/weighted-dips.jpg"
+            }
+          ]
+        }
       ]
     },
     {
       "labelAr": "ظهر",
       "labelEn": "Back",
       "exercises": [
-        { "nameAr": "العقلة (سحب)", "nameEn": "Pull-up", "image": "images/back/pull-up.jpg" },
-        { "nameAr": "سحب أمامي", "nameEn": "Lat Pulldown", "image": "images/back/lat-pulldown.jpg" }
+        {
+          "nameAr": "العقلة (سحب)",
+          "nameEn": "Pull-up",
+          "image": "images/back/pull-up.jpg"
+        },
+        {
+          "nameAr": "سحب أمامي",
+          "nameEn": "Lat Pulldown",
+          "image": "images/back/lat-pulldown.jpg"
+        }
       ]
     },
     {
       "labelAr": "أرجل",
       "labelEn": "Legs",
       "exercises": [
-        { "nameAr": "سكوات بالبار", "nameEn": "Barbell Squat", "image": "images/legs/barbell-squat.jpg" },
-        { "nameAr": "ضغط الأرجل (بريش)", "nameEn": "Leg Press", "image": "images/legs/leg-press.jpg" }
+        {
+          "nameAr": "سكوات بالبار",
+          "nameEn": "Barbell Squat",
+          "image": "images/legs/barbell-squat.jpg"
+        },
+        {
+          "nameAr": "ضغط الأرجل (بريش)",
+          "nameEn": "Leg Press",
+          "image": "images/legs/leg-press.jpg"
+        }
       ]
     }
   ]
