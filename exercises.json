@@ -16,51 +16,63 @@
         },
         {
           "nameAr": "بنش برس مائل سفلي - بار",
-          "nameEn": "Decline Barbell Bench Press"
+          "nameEn": "Decline Barbell Bench Press",
+          "image": "images/chest/decline-barbell-bench-press.jpg"
         },
         {
           "nameAr": "بنش برس مستوي - دمبل",
-          "nameEn": "Flat Dumbbell Bench Press"
+          "nameEn": "Flat Dumbbell Bench Press",
+          "image": "images/chest/flat-dumbbell-bench-press.jpg"
         },
         {
           "nameAr": "بنش برس مائل علوي - دمبل",
-          "nameEn": "Incline Dumbbell Bench Press"
+          "nameEn": "Incline Dumbbell Bench Press",
+          "image": "images/chest/incline-dumbbell-bench-press.jpg"
         },
         {
           "nameAr": "بنش برس مائل سفلي - دمبل",
-          "nameEn": "Decline Dumbbell Bench Press"
+          "nameEn": "Decline Dumbbell Bench Press",
+          "image": "images/chest/decline-dumbbell-bench-press.jpg"
         },
         {
           "nameAr": "طيران مستوي - دمبل",
-          "nameEn": "Flat Dumbbell Fly"
+          "nameEn": "Flat Dumbbell Fly",
+          "image": "images/chest/flat-dumbbell-fly.jpg"
         },
         {
           "nameAr": "طيران مائل علوي - دمبل",
-          "nameEn": "Incline Dumbbell Fly"
+          "nameEn": "Incline Dumbbell Fly",
+          "image": "images/chest/incline-dumbbell-fly.jpg"
         },
         {
           "nameAr": "سحب دمبل للصدر (بولوفر)",
-          "nameEn": "Dumbbell Pullover"
+          "nameEn": "Dumbbell Pullover",
+          "image": "images/chest/dumbbell-pullover.jpg"
         },
         {
           "nameAr": "طيران بالكابل (من الأعلى)",
-          "nameEn": "High-to-Low Cable Crossover"
+          "nameEn": "High-to-Low Cable Crossover",
+          "image": "images/chest/high-to-low-cable-crossover.jpg"
         },
         {
           "nameAr": "بيك ديك (فراشة بالجهاز)",
-          "nameEn": "Pec Deck Fly"
+          "nameEn": "Pec Deck Fly",
+          "image": "images/chest/pec-deck-fly.jpg"
         },
         {
           "nameAr": "ضغط الصدر بالجهاز (جالس)",
-          "nameEn": "Seated Machine Chest Press"
+          "nameEn": "Seated Machine Chest Press",
+          "image": "images/chest/seated-machine-chest-press.jpg"
         },
         {
           "nameAr": "ضغط لاندماين للصدر",
-          "nameEn": "Landmine Chest Press"
+          "nameEn": "Landmine Chest Press",
+          "image": "images/chest/landmine-chest-press.jpg"
         },
         {
           "nameAr": "المتوازي بوزن إضافي",
-          "nameEn": "Weighted Chest Dips"
+          "nameEn": "Weighted Chest Dips",
+          "image": "images/chest/weighted-chest-dips.jpg"
         }
       ]
     },
