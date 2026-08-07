@@ -131,11 +131,13 @@
       "labelEn": "Back",
       "exercises": [
         {
+          "id": 21,
           "nameAr": "العقلة (سحب)",
           "nameEn": "Pull-up",
           "image": "images/back/pull-up.jpg"
         },
         {
+          "id": 22,
           "nameAr": "سحب أمامي",
           "nameEn": "Lat Pulldown",
           "image": "images/back/lat-pulldown.jpg"
@@ -147,11 +149,13 @@
       "labelEn": "Legs",
       "exercises": [
         {
+          "id": 23,
           "nameAr": "سكوات بالبار",
           "nameEn": "Barbell Squat",
           "image": "images/legs/barbell-squat.jpg"
         },
         {
+          "id": 24,
           "nameAr": "ضغط الأرجل (بريش)",
           "nameEn": "Leg Press",
           "image": "images/legs/leg-press.jpg"
