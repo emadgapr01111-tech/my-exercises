@@ -8,121 +8,121 @@
           "id": 1,
           "nameAr": "تجميع الصدر بالبار على بنش مستوٍ",
           "nameEn": "Flat Barbell Bench Press",
-          "image": "images/chest/1.gif"
+          "image": "images/chest/1.jpg"
         },
         {
           "id": 2,
           "nameAr": "تجميع الصدر بالبار على بنش مائل لأعلى",
           "nameEn": "Incline Barbell Bench Press",
-          "image": "images/chest/2.gif"
+          "image": "images/chest/2.jpg"
         },
         {
           "id": 3,
           "nameAr": "تجميع الصدر بالبار على بنش مائل لأسفل",
           "nameEn": "Decline Barbell Bench Press",
-          "image": "images/chest/3.gif"
+          "image": "images/chest/3.jpg"
         },
         {
           "id": 4,
           "nameAr": "تجميع الصدر بالدمبل على بنش مستوٍ",
           "nameEn": "Flat Dumbbell Bench Press",
-          "image": "images/chest/4.gif"
+          "image": "images/chest/4.jpg"
         },
         {
           "id": 5,
           "nameAr": "تجميع الصدر بالدمبل على بنش مائل لأعلى",
           "nameEn": "Incline Dumbbell Bench Press",
-          "image": "images/chest/5.gif"
+          "image": "images/chest/5.jpg"
         },
         {
           "id": 6,
           "nameAr": "تجميع الصدر بالدمبل على بنش مائل لأسفل",
           "nameEn": "Decline Dumbbell Bench Press",
-          "image": "images/chest/6.gif"
+          "image": "images/chest/6.jpg"
         },
         {
           "id": 7,
           "nameAr": "تفتيح الصدر بالدمبل على بنش مستوٍ",
           "nameEn": "Flat Dumbbell Flyes",
-          "image": "images/chest/7.gif"
+          "image": "images/chest/7.jpg"
         },
         {
           "id": 8,
           "nameAr": "تفتيح الصدر بالدمبل على بنش مائل لأعلى",
           "nameEn": "Incline Dumbbell Flyes",
-          "image": "images/chest/8.gif"
+          "image": "images/chest/8.jpg"
         },
         {
           "id": 9,
           "nameAr": "تفتيح الصدر بالدمبل على بنش مائل لأسفل",
           "nameEn": "Decline Dumbbell Flyes",
-          "image": "images/chest/9.gif"
+          "image": "images/chest/9.jpg"
         },
         {
           "id": 10,
           "nameAr": "تجميع الصدر على الجهاز الجالس (مستوٍ)",
           "nameEn": "Seated Machine Chest Press",
-          "image": "images/chest/10.gif"
+          "image": "images/chest/10.jpg"
         },
         {
           "id": 11,
           "nameAr": "تجميع الصدر على الجهاز الجالس (مائل لأعلى)",
           "nameEn": "Incline Machine Chest Press",
-          "image": "images/chest/11.gif"
+          "image": "images/chest/11.jpg"
         },
         {
           "id": 12,
           "nameAr": "تجميع الصدر على الجهاز الجالس (مائل لأسفل)",
           "nameEn": "Decline Machine Chest Press",
-          "image": "images/chest/12.gif"
+          "image": "images/chest/12.jpg"
         },
         {
           "id": 13,
           "nameAr": "تفتيح الصدر على جهاز الفراشة (بيك دِك)",
           "nameEn": "Pec Deck Flyes",
-          "image": "images/chest/13.gif"
+          "image": "images/chest/13.jpg"
         },
         {
           "id": 14,
           "nameAr": "تجميع الصدر بجهاز سميث مستوٍ",
           "nameEn": "Smith Machine Bench Press",
-          "image": "images/chest/14.gif"
+          "image": "images/chest/14.jpg"
         },
         {
           "id": 15,
           "nameAr": "تجميع الصدر بجهاز سميث مائل لأعلى",
           "nameEn": "Smith Machine Incline Press",
-          "image": "images/chest/15.gif"
+          "image": "images/chest/15.jpg"
         },
         {
           "id": 16,
           "nameAr": "تجميع الصدر بجهاز سميث مائل لأسفل",
           "nameEn": "Smith Machine Decline Press",
-          "image": "images/chest/16.gif"
+          "image": "images/chest/16.jpg"
         },
         {
           "id": 17,
           "nameAr": "تفتيح الصدر بالكيبل (تقاطع)",
           "nameEn": "Cable Crossover",
-          "image": "images/chest/17.gif"
+          "image": "images/chest/17.jpg"
         },
         {
           "id": 18,
           "nameAr": "تفتيح الصدر بالكيبل من الأعلى للأسفل",
           "nameEn": "High-to-Low Cable Crossover",
-          "image": "images/chest/18.gif"
+          "image": "images/chest/18.jpg"
         },
         {
           "id": 19,
           "nameAr": "تفتيح الصدر بالكيبل من الأسفل للأعلى",
           "nameEn": "Low-to-High Cable Crossover",
-          "image": "images/chest/19.gif"
+          "image": "images/chest/19.jpg"
         },
         {
           "id": 20,
           "nameAr": "تمرين المتوازي (للصدر)",
           "nameEn": "Chest Dips",
-          "image": "images/chest/20.gif"
+          "image": "images/chest/20.jpg"
         }
       ]
     },
